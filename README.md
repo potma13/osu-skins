@@ -34,3 +34,6 @@ potma
 
 # [sytho alfie 1.25](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/Sytho%20alfie%201.25_ultra_lite.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot065.jpg?raw=true)](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/Sytho%20alfie%201.25_ultra_lite.osk?download=)
+
+# [jesus](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/JESUS.osk?download=)
+[![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot067.jpg?raw=true)](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/JESUS.osk?download=?download=)
