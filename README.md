@@ -9,7 +9,7 @@ potma
 </p>
 
 # [adidas yellow](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/adidas%20yellow.osk?download=)
-[![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot043.jpg?raw=true){:target="_blank"}](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot043.jpg)
+[![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot043.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot043.jpg)
 
 # [rafis 8k](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%208k.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot070.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot070.jpg)
