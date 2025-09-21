@@ -1,6 +1,6 @@
 # potma13 most used skins
 <p align="center">
-<a href="https://osu.ppy.sh/users/26088072" target="_blank">
+<a href="https://osu.ppy.sh/users/26088072" target="_blank" rel="noopener noreferrer">
   <img src="https://a.ppy.sh/26088072"  
        width="150"
        height="150"></a>
