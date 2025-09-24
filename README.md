@@ -43,3 +43,9 @@ potma
 
 # [jesus](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/JESUS.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot067.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot067.jpg)
+<<<<<<< HEAD
+=======
+
+# [rafis podkrecony (ninerik edit)](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%20podkrecony%20(ninerik%20edit%202).osk?download=)
+[![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot071.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot071.jpg)
+>>>>>>> c7ef9fffbe681b924c11070f9cdd27ba4706e701
