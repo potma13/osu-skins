@@ -11,13 +11,13 @@ potma
 # [adidas yellow](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/adidas%20yellow.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot043.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot043.jpg)
 
-# [rafis 8k](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%208k.osk?download=)
+# [rafis 8k blue cursor](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%208k.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot070.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot070.jpg)
 
 # [sytho alfie 2.2](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/Sytho%20alfie%20ver2.2.osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot066.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot066.jpg)
 
-# [rafis (akolibed edit)](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%20(akolibed%20edit).osk?download=)
+# [rafis (akolibed edit) green cursor ](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/rafis%20(akolibed%20edit).osk?download=)
 [![](https://github.com/potma13/osu-skins/blob/master/screenshots/screenshot071.jpg?raw=true)](https://raw.githubusercontent.com/potma13/osu-skins/refs/heads/master/screenshots/screenshot071.jpg)
 
 # [chitanda](https://github.com/potma13/osu-skins/raw/refs/heads/master/skin-folder/Chitanda.osk?download=)
